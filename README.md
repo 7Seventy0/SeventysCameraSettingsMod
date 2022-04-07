@@ -16,3 +16,5 @@ R,F to rotate Camera localEulerAngle along the X axis
 Enter to enter First person.
 
 Backspace To go back to Third person.
+
+Arrow Keys Up and Down To change FOV.
