@@ -1,20 +1,30 @@
 # SeventysCameraSettingsMod
 Change the way Gorilla Tag is viewed by your friends and fans!
 
-Controlls:
+Key Binds:
+ 
+FOV = Mouse wheel
 
-W A S D To move the camera along a 2d plane
+Free Cam = F1 Key toggle
 
-Space to move Camera Up.
+First Person = Space Key Toggle
 
-Ctrl to move Camera Down.
+Toggle UI = Tab Key
 
-Q,E to rotate Camera localEulerAngle along the Y axis.
+W A S D = Move :|
 
-R,F to rotate Camera localEulerAngle along the X axis
+Rotation = Arrow Keys
 
-Enter to enter First person.
+Spectate Player 1 - 9 Third Person = Number keys 1 - 9
 
-Backspace To go back to Third person.
+Spectate Player 1 - 9 First Person = Number keys 1 - 9 + Shift
 
-Arrow Keys Up and Down To change FOV.
+Place waypoint = P key
+
+Start Waypoint Mode = O key
+
+Delete WayPoint = I key (Hold)
+
+Reset Rotation = Z key (Might be a different key if you are not using a English keyboard)
+
+There might be some more but those are of the dome!
