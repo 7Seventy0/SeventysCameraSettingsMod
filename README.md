@@ -7,7 +7,7 @@ FOV = Mouse wheel
 
 Free Cam = F1 Key toggle
 
-First Person = Space Key Toggle
+First Person = Enter Key Toggle
 
 Toggle UI = Tab Key
 
