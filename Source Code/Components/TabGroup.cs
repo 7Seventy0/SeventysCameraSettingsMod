@@ -7,7 +7,7 @@ public class TabGroup : MonoBehaviour
 {
     public List<TabButton> tabButtons;
     public List<GameObject> tabs;
-
+    public string VaporApplication = "PEH0V-62M57-7EBQN"
     Color idleColor = new Color(1,1,1);
     Color hoverColor = new Color(0.8f,0.8f,0.8f);
     Color selectedColor = new Color(0.4f, 0.4f, 0.4f);
